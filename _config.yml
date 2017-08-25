@@ -1,7 +1,7 @@
 ### your site title here
 
 title: TAM Capstone
-baseurl: /capstone-s17 # name of the repository
+baseurl: /capstone-f17 # name of the repository
 # email: your@email.com
 
 highlighter: rouge
@@ -26,7 +26,7 @@ compress_html:
   blanklines: false
   profile: false
   startings: []
-  
+
 sass:
  style: compressed
 

@@ -60,7 +60,7 @@ Because each of you has a different project, with different internal timelines a
 
 Part of the idea of Capstone is to both give you a lot of support and a lot of independence. The emphasis of this course is in project development, and every week you will receive an evaluation of your progress.
 
-Each week, together with your instructor, you will set goals for the upcoming week. You will be evaluated on how successfully you achieve these determined objectives. For the first 13 weeks of the semester (not including the week of fall break), you will receive up to 50 pts for the progress that you made that week. This score will consider not only the individual progress that you made on your project, but also includes attendance, participation, and engagement in class. The final weeks of the semester will be dedicated to documentation and presentation preparation.
+Each week, together with your instructor, you will set goals for the upcoming week. You will be evaluated on how successfully you achieve these determined objectives. For weeks 1-14 (not including the week of fall break), you will receive up to 50 pts for the progress that you made that week. This score will consider not only the individual progress that you made on your project, but also includes attendance, participation, and engagement in class. The final weeks of the semester will be dedicated to documentation and presentation preparation.
 
 #### Every week = Advance Your Project (AYP!)
 
