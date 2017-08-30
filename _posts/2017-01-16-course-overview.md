@@ -76,6 +76,12 @@ Each week, together with your instructor, you will set goals for the upcoming we
 
 You must earn at least a C in order to receive TAM credit for this course.
 
+#### Weekly Progress
+
+Weekly points will be allocated based on instructor-assigned material and on student-determined tasks. Each week, with your instructor, you will outline a set of goals that you commit to completing before the following week. Your assessment for the week will be based on the level to which these tasks are executed as well as attendance and participation. Your work from week-to-week should be documented in your work-in-progress blog.
+
+*You will receive points for each week on Wednesday evenings after class.*
+
 <br>
 
 # Documentation
@@ -95,7 +101,7 @@ By the end of the semester, you must comprehensively document your project onlin
 
 1. <span class="underlined">**Project Video**</span> (posted on Vimeo)
 
-2. <span class="underlined">**Project Website**</span>
+2. <span class="underlined">**Project Website / Github Repository**</span>
 
 It should be obvious which format is most appropriate for your project (often a video is best for highly interactive or experiential works). If you are unsure which format is most appropriate, discuss it with your Instructor.
 
