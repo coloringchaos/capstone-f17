@@ -8,8 +8,9 @@ permalink: /deliverables
 
 + Presentation and Showcase on 12/18
 + Online Documentation
-	+ In the format of your choice - video, website, or tutorial
-	+ Your documentation should also include your process writeup and precedents
+	+ Something that demonstrates what you made in the format of your choice - video, website, or tutorial
+	+ Your documentation should also include your process writeup - this can live on your blog, portfolio, etc.
+	+ Clarify with your instructor exactly what *'online documentation'* means for your project
 + Self Evaluation
 
 Final presentations will take place on <span class="underlined">**Monday December 18th from 1-3pm**</span>
