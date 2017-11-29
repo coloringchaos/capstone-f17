@@ -20,7 +20,7 @@ Final presentations will take place on <span class="underlined">**Monday Decembe
 
 ## Presentation
 
-This presentation is an opportunity for you to share what you have created and receive feedback and critique from the larger TAM community. In this presentation, you must clearly communicate the question / goal (the why, the purpose) of your project and defend your process in working towards this objective. You should also discuss precedents that inspired or informed your work, and identify what is unique about your idea or your approach. Somewhere towards the beginning of your presentation, be sure to state your goal or purpose in this project clearly and succinctly! *“My goal in this project was…”*
+This presentation is an opportunity for you to share what you have created and receive feedback and critique from the larger TAM community. In this presentation, you must clearly communicate the question / goal (the why, the purpose) of your project and defend your process in working towards this objective. You should also discuss precedents that inspired or informed your work, and identify what is unique about your idea or your approach. Somewhere towards the beginning of your presentation, be sure to state your question or goal in this project clearly and succinctly! *“I was curious how…”*
 
 Most of all, think of your presentation as a <span class="underlined">**story**</span>. And to make it engaging for the audience, you need to bring them with you. Talk about the moments of insight or discovery, as well as roadblocks and challenges that you faced.  
 
