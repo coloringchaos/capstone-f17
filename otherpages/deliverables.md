@@ -4,13 +4,16 @@ layout: post
 permalink: /deliverables
 ---
 
-+ Presentation
+
+Your deliverables for this class include:
+
++ Presentation and Project Showcase on 12/18
 + Online Documentation
 	+ In the format of your choice - video, website, or tutorial
-	+ Your documentation can include your process writeup and precedents
+	+ Your documentation should also include your process writeup and precedents
 + Self Evaluation
 
-Presentations will take place on <span class="underlined">**Monday December 18th**</span>
+Final presentations will take place on <span class="underlined">**Monday December 18th**</span>
 
 Everything else is due <span class="underlined">**Wednesday, December 20th by midnight**</span>
 
@@ -28,6 +31,7 @@ Most of all, think of your presentation as a <span class="underlined">**story**<
 + Also be conscious of how you present yourself! <br><span class="underlined">[Your body language shapes who you are!](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are)</span>
 
 ***The key to a strong presentation is PRACTICE!***
+
 <!--
 <br>
 
@@ -47,7 +51,7 @@ Most of all, think of your presentation as a <span class="underlined">**story**<
 
 #### Things to Avoid
 
-+ Talking too much about yourself
+<!-- + Talking too much about yourself -->
 + Apologizing
 + Live demos - you ***should*** show a video of what you made!
 + Poor image or video quality
