@@ -4,20 +4,15 @@ layout: post
 permalink: /deliverables
 ---
 
-<!-- ## Deliverables -->
-
 + Presentation
-+ Process Writeup *( CAPSTONE 1 only! )*
-+ Precedents, 3 minimum *( CAPSTONE 1 only! )*
 + Online Documentation
-	+ In the format of your choice
-	+ Your documentation can include your process writeup and precedents 
-	+ ***For capstone 2, this portion is very significant!!!!!!***
+	+ In the format of your choice - video, website, or tutorial
+	+ Your documentation can include your process writeup and precedents
 + Self Evaluation
 
-Presentations will take place on <span class="underlined">**Friday May 5th**</span>
+Presentations will take place on <span class="underlined">**Monday December 18th**</span>
 
-Everything else is due <span class="underlined">**Thursday, May 11th at 10pm**</span>
+Everything else is due <span class="underlined">**Wednesday, December 20th by midnight**</span>
 
 <br>
 <hr>
@@ -25,7 +20,7 @@ Everything else is due <span class="underlined">**Thursday, May 11th at 10pm**</
 
 ## Presentation
 
-This presentation is an opportunity for you to share what you have been working on, and receive feedback and critique from the larger TAM community. In this presentation, you must clearly communicate the goal (or why) of your project and defend your process in working towards this objective. You should also discuss precedents that inspired or informed your work, and identify what is unique about your idea or your approach. Somewhere towards the beginning of your presentation, be sure to state your goal or purpose in this project clearly and succinctly! *“My goal in this project was…”*
+This presentation is an opportunity for you to share what you have created and receive feedback and critique from the larger TAM community. In this presentation, you must clearly communicate the question / goal (the why, the purpose) of your project and defend your process in working towards this objective. You should also discuss precedents that inspired or informed your work, and identify what is unique about your idea or your approach. Somewhere towards the beginning of your presentation, be sure to state your goal or purpose in this project clearly and succinctly! *“My goal in this project was…”*
 
 Most of all, think of your presentation as a <span class="underlined">**story**</span>. And to make it engaging for the audience, you need to bring them with you. Talk about the moments of insight or discovery, as well as roadblocks and challenges that you faced.  
 
@@ -33,7 +28,7 @@ Most of all, think of your presentation as a <span class="underlined">**story**<
 + Also be conscious of how you present yourself! <br><span class="underlined">[Your body language shapes who you are!](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are)</span>
 
 ***The key to a strong presentation is PRACTICE!***
-
+<!--
 <br>
 
 #### Suggested Elements of your presentation
@@ -44,13 +39,17 @@ Most of all, think of your presentation as a <span class="underlined">**story**<
 **3:30**&nbsp;&nbsp;&nbsp;Tell them what you did / what *IS* your project  - *this is more of the how*<br>
 **1:00**&nbsp;&nbsp;&nbsp;&nbsp;What you plan to do next
 
+1) Introduction & Main Design Question: (i.e. Hello my name is X and for my capstone project I explored How technology can make life better for people in busy cities?)
+2) Precedents, Research, Findings: Show that you have done thorough research into other projects that have explored this issue
+4) Final Pitch: Your final pitch on what you propose to do next semester, and why you believe it is the best direction -->
+
 <br>
 
 #### Things to Avoid
 
 + Talking too much about yourself
 + Apologizing
-+ Live demos
++ Live demos - you ***should*** show a video of what you made!
 + Poor image or video quality
 + Too much text on your slides
 + Reading your slides
@@ -58,13 +57,14 @@ Most of all, think of your presentation as a <span class="underlined">**story**<
 
 #### [Presentation Tips (slides)](https://docs.google.com/a/colorado.edu/presentation/d/1jfoPLamRvxa8YFGYEvU7W-SMV7aAQvj4LBcIOIu35uE/edit?usp=sharing)
 
-Your presentation should be a <span class="underlined">**min of 8 minutes and max of 9 minutes long**</span><br>You will have 6 minutes for Q & A
+Your presentation should be a <span class="underlined">**6 minutes long**</span><br>
+
 
 <br>
 <hr>
 <br>
 
-## Precedents / References
+<!-- ## Precedents / References
 
 <span class="underlined">*Capstone 1 Only*</span>
 
@@ -72,7 +72,7 @@ You should submit a minimum of 3 precedents, or references of work that have ins
 
 Reflect on your process this semester, and consider the most significant influences. These are your precedents. If you’re not sure if something counts as a precedent, talk to me about it!!!
 
-For each precedent, you must write a description of what it is and how it informs your work. 
+For each precedent, you must write a description of what it is and how it informs your work.
 
 If you have a longer collection of resources that you have utilized throughout your process, you must also cite these sources as part of your deliverables.
 
@@ -84,23 +84,23 @@ If you have a longer collection of resources that you have utilized throughout y
 
 <span class="underlined">*Capstone 1 Only*</span>
 
-For everyone in Capstone 1, you must submit a 500-750 word writeup of your work this semester. 
+For everyone in Capstone 1, you must submit a 500-750 word writeup of your work this semester.
 
-You should describe what you did this semester, and, more importantly, what you have learned from the process. Communicate your why, and outline your steps for the future. This is essentially a more concise, written version of your presentation. Do not focus on your research or precedents here, this is where you talk about your project. 
+You should describe what you did this semester, and, more importantly, what you have learned from the process. Communicate your why, and outline your steps for the future. This is essentially a more concise, written version of your presentation. Do not focus on your research or precedents here, this is where you talk about your project.
 
-This writeup is an opportunity to reflect on the work you have done this semester, and set an intention for what you intend to produce next semester in Capstone 2. 
+This writeup is an opportunity to reflect on the work you have done this semester, and set an intention for what you intend to produce next semester in Capstone 2.
 
 <br>
 <hr>
-<br>
+<br> -->
 
 ## Online Documentation
 
-This can be in the format of your choice, but ***it must live online***. It could be a dedicated website, a detailed blog post, a section of your personal portfolio, or a published google doc. 
+This can be in the format of your choice, but ***it must live online***. For the vast majority of you, a project video will make the most sense. You might also choose to make a dedicated project website, or post your project on instructables or github as a tutorial.
 
-The idea with this is to create ONE post or site that concisely summarizes what you have worked on this semester. It should be comprehensive, but should not be so long that you lose the attention of a viewer. You can link to older posts that you have on your blog, and also include links to references and precedents. And utilize as much media as possible (screen shots, process videos, sketches, etc..). This online documentation can include the copy from your precedent and process writeups. 
+The intention with this is to create ONE place that concisely summarizes what you have worked on this semester. It should be comprehensive, but should not be so long that you lose the attention of a viewer. You can link to older posts that you have on your blog, and also include links to references and precedents. And utilize as much media as possible (screen shots, process videos, sketches, etc..). This online documentation can include some version of your precedent and process writeups (that you turned in at the end of last semester).
 
-<span class="underlined">***For capstone 2***</span> - my expectations are higher for this. FULLY document your project in such a way that you could share this detailed documentation with a potential employer or as a quality reference of your creative work. 
+Think about FULLY documenting your project in such a way that you could share this detailed documentation with a potential employer or as a quality reference of your creative work.
 
 <br>
 <hr>
@@ -108,5 +108,4 @@ The idea with this is to create ONE post or site that concisely summarizes what 
 
 ## Self Evaluation
 
-Write 1-2 paragraphs reflecting on your own performance this semester. What went smoothly for you, and what was challenging. Overall, how do you feel about the work you produced? What grade do you feel you should earn for your work this semester and why?
-
+Write 1-2 paragraphs reflecting on your own performance this semester. What went smoothly for you, and what was challenging? Overall, how do you feel about the work you produced? What grade do you feel you should earn for your work this semester and why?
