@@ -26,8 +26,6 @@ Most of all, think of your presentation as a <span class="underlined">**story**<
 
 #### ***The key to a strong presentation is PRACTICE!***
 
-<br>
-
 #### Things to Avoid
 
 + Apologizing
@@ -36,8 +34,6 @@ Most of all, think of your presentation as a <span class="underlined">**story**<
 + Too much text on your slides
 + Reading your slides
 + Technical jargon
-
-<br>
 
 #### [Presentation Tips (slides)](https://docs.google.com/a/colorado.edu/presentation/d/1jfoPLamRvxa8YFGYEvU7W-SMV7aAQvj4LBcIOIu35uE/edit?usp=sharing)
 
