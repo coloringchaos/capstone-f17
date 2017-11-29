@@ -16,10 +16,10 @@ This presentation is a way for your instructor and peers to get to know you thro
 + how what you have done so far may have led you to the idea you are thinking of exploring for your Capstone project
 
 
-Put it together. <span class="underlined">**Practice it**</span>. You will be cut off if you go too long. 
+Put it together. <span class="underlined">**Practice it**</span>. You will be cut off if you go too long.
 
-When you make your presentation, ***DO NOT*** include a lot of text on your slides. You should rely on photos, screenshots, illustrations, etc. of your projects. 
+When you make your presentation, ***DO NOT*** include a lot of text on your slides. You should rely on photos, screenshots, illustrations, etc. of your projects.
 
-If you are in Capstone 2 and continuing your project from last semester, please spend about half of your presentation on this. But also please talk about other work you have done that has been relevant/meaningful. 
+If you are in Capstone 2 and continuing your project from last semester, please spend about half of your presentation on this. But also please talk about other work you have done that has been relevant/meaningful.
 
 ***The point of this presentation is to provide the class with a <span class="underlined">context</span> of who you are and the work you've done - craft your presentation with this in mind!***

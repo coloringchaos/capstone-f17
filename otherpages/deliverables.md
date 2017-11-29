@@ -4,10 +4,9 @@ layout: post
 permalink: /deliverables
 ---
 
+<span class="underlined">**Your deliverables for this class include:**</span>
 
-Your deliverables for this class include:
-
-+ Presentation and Project Showcase on 12/18
++ Presentation and Showcase on 12/18
 + Online Documentation
 	+ In the format of your choice - video, website, or tutorial
 	+ Your documentation should also include your process writeup and precedents
@@ -32,26 +31,9 @@ Most of all, think of your presentation as a <span class="underlined">**story**<
 
 ***The key to a strong presentation is PRACTICE!***
 
-<!--
-<br>
-
-#### Suggested Elements of your presentation
-
-**:30**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introduce yourself - *ideally this intro fits into the context of your project*<br>
-**1:00**&nbsp;&nbsp;&nbsp;&nbsp;Introduce your work - *communicate the purpose / the problem / the why*<br>
-**2:30**&nbsp;&nbsp;&nbsp;Precedents, research, findings - *explain how you got here...*<br>
-**3:30**&nbsp;&nbsp;&nbsp;Tell them what you did / what *IS* your project  - *this is more of the how*<br>
-**1:00**&nbsp;&nbsp;&nbsp;&nbsp;What you plan to do next
-
-1) Introduction & Main Design Question: (i.e. Hello my name is X and for my capstone project I explored How technology can make life better for people in busy cities?)
-2) Precedents, Research, Findings: Show that you have done thorough research into other projects that have explored this issue
-4) Final Pitch: Your final pitch on what you propose to do next semester, and why you believe it is the best direction -->
-
-<br>
 
 #### Things to Avoid
 
-<!-- + Talking too much about yourself -->
 + Apologizing
 + Live demos - you ***should*** show a video of what you made!
 + Poor image or video quality
@@ -61,7 +43,7 @@ Most of all, think of your presentation as a <span class="underlined">**story**<
 
 #### [Presentation Tips (slides)](https://docs.google.com/a/colorado.edu/presentation/d/1jfoPLamRvxa8YFGYEvU7W-SMV7aAQvj4LBcIOIu35uE/edit?usp=sharing)
 
-Your presentation should be a <span class="underlined">**6 minutes long**</span><br>
+Your presentation should be a <span class="underlined">**7 minutes long**</span><br>
 
 
 <br>
@@ -105,6 +87,8 @@ This can be in the format of your choice, but ***it must live online***. For the
 The intention with this is to create ONE place that concisely summarizes what you have worked on this semester. It should be comprehensive, but should not be so long that you lose the attention of a viewer. You can link to older posts that you have on your blog, and also include links to references and precedents. And utilize as much media as possible (screen shots, process videos, sketches, etc..). This online documentation can include some version of your precedent and process writeups (that you turned in at the end of last semester).
 
 Think about FULLY documenting your project in such a way that you could share this detailed documentation with a potential employer or as a quality reference of your creative work.
+
+Post your final documentation to your blog with a Process Writeup, 500-750 words that explain what you created. You should describe what you did this semester, and, more importantly, what you have learned from the process. Communicate your why, and outline your steps for the future. This is essentially a more concise, written version of your presentation. Do not focus on your research or precedents here, this is where you only talk about your project.
 
 <br>
 <hr>
