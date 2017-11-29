@@ -24,22 +24,28 @@ This presentation is an opportunity for you to share what you have created and r
 
 Most of all, think of your presentation as a <span class="underlined">**story**</span>. And to make it engaging for the audience, you need to bring them with you. Talk about the moments of insight or discovery, as well as roadblocks and challenges that you faced.  
 
-+ Here’s a great talk about <span class="underlined">[the secret structure of great talks](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks)</span>
-+ Also be conscious of how you present yourself! <br><span class="underlined">[Your body language shapes who you are!](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are)</span>
+#### ***The key to a strong presentation is PRACTICE!***
 
-***The key to a strong presentation is PRACTICE!***
-
+<br>
 
 #### Things to Avoid
 
 + Apologizing
-+ Live demos - you ***should*** show a video of what you made!
++ Live demos - videos / animations are a more concise way to demonstrate what you made!
 + Poor image or video quality
 + Too much text on your slides
 + Reading your slides
 + Technical jargon
 
+<br>
+
 #### [Presentation Tips (slides)](https://docs.google.com/a/colorado.edu/presentation/d/1jfoPLamRvxa8YFGYEvU7W-SMV7aAQvj4LBcIOIu35uE/edit?usp=sharing)
+
+A few resources that might be helpful in crafting your talk:
+
++ Here’s a great talk about <span class="underlined">[the secret structure of great talks](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks)</span>
++ Also be conscious of how you present yourself! <br><span class="underlined">[Your body language shapes who you are!](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are)</span>
+
 
 Your presentation should be a <span class="underlined">**7 minutes long**</span><br>
 
@@ -96,4 +102,4 @@ Post your final documentation to your blog with a Process Writeup, 500-750 words
 
 Write 1-2 paragraphs reflecting on your own performance this semester. What went smoothly for you, and what was challenging? Overall, how do you feel about the work you produced? What grade do you feel you should earn for your work this semester and why?
 
-Send this self evaluation and a link to your online documentation to me <span class="underlined">**Wednesday, December 20th by midnight**</span>
+Send this self evaluation and a link to your online documentation to me <br> <span class="underlined">**Wednesday, December 20th by midnight**</span>
