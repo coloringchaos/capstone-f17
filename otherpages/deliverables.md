@@ -25,8 +25,6 @@ This presentation is an opportunity for you to share what you have created and r
 
 Most of all, think of your presentation as a <span class="underlined">**story**</span>. And to make it engaging for the audience, you need to bring them with you. Talk about the moments of insight or discovery, as well as roadblocks and challenges that you faced.  
 
-#### ***The key to a strong presentation is PRACTICE!***
-
 #### Things to Avoid
 
 + Apologizing
@@ -46,6 +44,7 @@ A few resources that might be helpful in crafting your talk:
 
 Your presentation should be a <span class="underlined">**7 minutes long**</span><br>
 
+#### ***The key to a strong presentation is PRACTICE!***
 
 <br>
 <hr>
