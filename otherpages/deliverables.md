@@ -12,9 +12,7 @@ permalink: /deliverables
 	+ Your documentation should also include your process writeup and precedents
 + Self Evaluation
 
-Final presentations will take place on <span class="underlined">**Monday December 18th**</span>
-
-Everything else is due <span class="underlined">**Wednesday, December 20th by midnight**</span>
+Final presentations will take place on <span class="underlined">**Monday December 18th from 1-3pm**</span>
 
 <br>
 <hr>
@@ -97,3 +95,5 @@ Post your final documentation to your blog with a Process Writeup, 500-750 words
 ## Self Evaluation
 
 Write 1-2 paragraphs reflecting on your own performance this semester. What went smoothly for you, and what was challenging? Overall, how do you feel about the work you produced? What grade do you feel you should earn for your work this semester and why?
+
+Send this self evaluation and a link to your online documentation to me <span class="underlined">**Wednesday, December 20th by midnight**</span>
