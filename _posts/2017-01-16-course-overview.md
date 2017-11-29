@@ -115,8 +115,6 @@ During your Capstone 2 semester, you must have two experts review your project. 
 
 Take notes during meetings with your experts, and document your reflections to your blog. Additionally, be sure to write down what you hear in your class critiques as a post. It is a very useful part of the design process. When you are presenting in class, a classmate can take notes for you so that you can concentrate on the crit.
 
-<!-- You will get a lot of feedback during the mid-term reviews both orally and in written form. We will go over that feedback together carefully and discuss how you will (or will not) incorporate their ideas. You will post a summary of those decisions to your blog. -->
-
 <br>
 
 # Project Requirements
