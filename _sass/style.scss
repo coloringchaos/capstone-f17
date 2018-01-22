@@ -213,7 +213,9 @@ footer {
 
 
 
-
+table{
+  padding:1em 0;
+}
 
 
 .underlined{
@@ -225,4 +227,9 @@ footer {
 .date{
     font-weight:bold;
     color:gray;
+}
+
+.due{
+  background-color:violet;
+  padding:5px 10px;
 }
